@@ -10,7 +10,7 @@ Currently working on:
 
 > You can reach me under: niklaswieland@hotmail.de
 
-My Goals!   
+**My Goals!**  
 
 - live with a dog [ ]
 - have a beautiful home [x]
