@@ -8,7 +8,7 @@ Currently working on:
 [Lauamiellee-Designs](https://airglow98.github.io/Lauramiellee/)
 
 
-
+> You can reach me under: niklaswieland@hotmail.de
 
 My Goals!   
 
