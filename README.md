@@ -16,5 +16,11 @@ My Goals!
 - have a beautiful home [x]
 - become a web developer [ ]
     
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Airglow98&show_icons=true&theme=gotham" alt="Airglow98" />
+
+
+    
 ![Akita Inu](https://www.mein-haustier.de/wp-content/uploads/2018/11/shutterstock_265439057-komprimiert-1270x608.jpg)
+
