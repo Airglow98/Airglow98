@@ -5,7 +5,7 @@
 -I'm always happy to learn from other people or share my own knowledge 🤜🏻 🤛🏻
 
 Currently working on:
-[My first website](https://airglow98.github.io/Lauramiellee/)
+[Lauamiellee-Designs](https://airglow98.github.io/Lauramiellee/)
 
 
 
