@@ -4,6 +4,11 @@
 -I do aprecciate long walks in the nature, music sessions, a (board) game evening or a round of darts to relax 🌱.   
 -I'm always happy to learn from other people or share my own knowledge 🤜🏻 🤛🏻
 
+Currently working on:
+
+
+
+
 My Goals!   
 
 - live with a dog [ ]
