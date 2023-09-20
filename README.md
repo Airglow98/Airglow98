@@ -1,11 +1,9 @@
 ## Hi there 👋 Welcome on my Page
 
--I'm Niklas, 24 years old and I’m currently learning about HTML, CSS & JavaScript.   
+-I'm Niklas, 25 years old and I’m currently learning about HTML, CSS & JavaScript.   
 -I do aprecciate long walks in the nature, music sessions, a (board) game evening or a round of darts to relax 🌱.   
 -I'm always happy to learn from other people or share my own knowledge 🤜🏻 🤛🏻
 
-Currently working on:
-[Lauramiellee-Designs](https://airglow98.github.io/Lauramiellee/)
 
 
 > You can reach me under: niklaswieland@hotmail.de
