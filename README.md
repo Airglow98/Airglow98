@@ -12,7 +12,7 @@
 
 - live with a dog [ ]
 - have a beautiful home [x]
-- become a web developer [ ]
+- become a web developer [x]
     
 📈 my github stats
 
